@@ -1,2 +1,2 @@
 # curso_git
-Repositorio de prueba para estudio del SCV Git
+Repositorio de prueba para estudio y aprendizaje del SCV Git
