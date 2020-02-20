@@ -1,0 +1,1 @@
+Como ves, este archivo se llama 'archivo_c.txt', tercer archivo de un grupo de ediciones del curso de Git que estoy editando mediante el comando echo

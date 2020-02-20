@@ -1,0 +1,1 @@
+Este es el archivo 'archivo_b.txt', y también lo edito mediante el comando echo en Git
